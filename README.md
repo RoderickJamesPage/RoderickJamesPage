@@ -17,7 +17,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/nemesio-salgado
+[linkedin]:https://www.linkedin.com/in/roderickjamespage/?trk=public-profile-join-page
 <!--
 **RoderickJamesPage/RoderickJamesPage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
