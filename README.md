@@ -1,4 +1,4 @@
-<h1>Hi, Roderick James Page<a href="www.linkedin.com/in/www.linkedin.com/in//RoderickJamesPage">IT Professional</a>☺</h1>
+<h1>Hi, Roderick James Page<a href="https://www.linkedin.com/in/roderickjamespage/?trk=public-profile-join-page">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
