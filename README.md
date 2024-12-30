@@ -1,4 +1,4 @@
-<h1>Hi, Roderick James Page<a href="https://www.linkedin.com/in/roderickjamespage/?trk=public-profile-join-page">IT Professional</a>☺</h1>
+<h1>Hi, Roderick James Page<a href="https://www.linkedin.com/in/roderickJP/?trk=public-profile-join-page">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,7 +17,7 @@
 
 
 
-[linkedin]:https://www.linkedin.com/in/roderickjamespage/?trk=public-profile-join-page
+[linkedin]:https://www.linkedin.com/in/roderickJP/?trk=public-profile-join-page
 <!--
 **RoderickJamesPage/RoderickJamesPage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
