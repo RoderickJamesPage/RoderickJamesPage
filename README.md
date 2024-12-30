@@ -18,6 +18,8 @@
 
 
 [linkedin]:https://www.linkedin.com/in/roderickJP/?trk=public-profile-join-page
+
+[Google doc of resume]:https://tinyurl.com/bdykc9k6
 <!--
 **RoderickJamesPage/RoderickJamesPage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
